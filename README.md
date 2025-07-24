@@ -1,4 +1,4 @@
-# Business-suggestion
+#  Tourist Sentiment Analytics for Restaurant Strategy
 
 For your GitHub README, you want a structure that clearly explains the objective, methodology, and expected outcomes of your project while making it easy for others to understand and potentially contribute. Here’s a suggested structure:
 
